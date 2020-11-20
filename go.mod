@@ -1,4 +1,4 @@
-module github.com/ghettovoice/gosip
+module github.com/KudryavtsevDmitry/gosip
 
 go 1.13
 
